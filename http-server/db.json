@@ -1,0 +1,18 @@
+{
+  "list": {
+    "items": [
+      {
+        "text": "Create webserver",
+        "isChecked": true
+      },
+      {
+        "text": "Load from webserver",
+        "isChecked": false
+      },
+      {
+        "text": "Update to webserver",
+        "isChecked": false
+      }
+    ]
+  }
+}

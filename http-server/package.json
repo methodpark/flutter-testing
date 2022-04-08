@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "start": "json-server db.json --host 0.0.0.0",
+    "start-with-delay": "json-server db.json --host 0.0.0.0 --delay 1000"
+  },
+  "devDependencies": {
+    "json-server": "^0.17.0"
+  }
+}
